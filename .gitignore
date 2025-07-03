@@ -1,0 +1,30 @@
+# Java
+target/
+*.class
+*.jar
+*.war
+*.iml
+*.log
+*.tmp
+
+# Node
+node_modules/
+dist/
+.env
+.vite/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+**/.env
+*.pid
+
+# Logs
+logs/
+*.log
+
+# IDEs
+.vscode/
+.idea/
